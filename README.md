@@ -1,4 +1,4 @@
-State controllers addition using State Controller Extension<br><br>
+State controllers addition using StateControllerExtension<br><br>
 This adds
 - **ValSet** - Set a value in a P-relative address<br>
   Disp = (displacement from P)<br>
